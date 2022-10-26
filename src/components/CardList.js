@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import CardCard from "./CardCard";
 
 
 function CardList(){
@@ -6,7 +7,7 @@ function CardList(){
 
 
     useEffect(()=>{
-        fetch("http://localhost:3000/cards")
+        fetch("http://localhost:4000/cards")
         .then((r)=>r.json())
         .then((data)=>setCards(data))
     }, [])
@@ -16,16 +17,16 @@ function CardList(){
 
     let cardsToDisplay = selected.map((card)=>{
         return(
-            <div>
-                <img src = {require(`../cards/${card.img}`)}></img>
-                <p>{card.name}</p>
-            </div>
+            <CardCard  key={card.image} card = {card}></CardCard>
+                
         )
     })
 
     return(
-        <div>
-            <p>{cardsToDisplay} </p>
+        <div className = "container">
+            <div className="row">
+                {cardsToDisplay}
+            </div>
         </div>
     )
 
