@@ -1,32 +1,7 @@
 import React, {useState, useEffect} from "react";
 
-function NavBar({moon, moonSym}){
-    const [weather, setWeather] = useState({})
-    const [temp, setTemp] = useState({})
-  
-  
-    useEffect(()=>{
-      function onSuccess(position){
-        const {
-          latitude, 
-          longitude
-        } = position.coords
-        console.log("your location:", latitude, longitude)
-        fetch(`http://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&units=imperial&appid=75a8b666054473c091321cf27e6548e3`)
-        .then((r)=>r.json())
-        .then((data)=>{console.log(data.weather)
-           setWeather(data.weather[0])
-           setTemp(data.main)
-        }
-        )
-      }
-    
-      function onError(){
-        console.log("could not get coordinates")
-      }
-  
-      navigator.geolocation.getCurrentPosition(onSuccess, onError)
-  }, [])
+function NavBar({moon, moonSym, weather, temp}){
+
 
   return (
     <div>
