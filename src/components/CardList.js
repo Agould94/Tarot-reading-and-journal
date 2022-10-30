@@ -5,11 +5,15 @@ import CardCard from "./CardCard";
 function CardList(){
     const [cards, setCards]=useState([])
 
+    function newCards(data){
+        setCards(data)
+    }
+
 
     useEffect(()=>{
         fetch("http://localhost:4000/cards")
         .then((r)=>r.json())
-        .then((data)=>setCards(data))
+        .then((data)=>newCards(data))
     }, [])
 
     const shuffled = cards.sort(()=>0.5 -Math.random())
@@ -18,7 +22,6 @@ function CardList(){
     let cardsToDisplay = selected.map((card)=>{
         return(
             <CardCard  key={card.image} card = {card}></CardCard>
-                
         )
     })
 
@@ -27,6 +30,7 @@ function CardList(){
             <div className="row">
                 {cardsToDisplay}
             </div>
+            {/* <button onClick={}>new</button> */}
         </div>
     )
 
