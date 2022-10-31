@@ -4,7 +4,7 @@ import '../App.css';
 import { useEffect, useState, useRef } from 'react';
 import { BrowserRouter, Route } from "react-router-dom";
 import Home from './Home';
-import NavBar from './NavBar'
+import AppNavBar from './AppNavBar'
 import * as Moon from 'lunarphase-js'
 
 function App() {
@@ -43,7 +43,7 @@ function App() {
 
   return (
     <div className="App">
-      <NavBar moon = {moon} moonSym = {moonSym} weather = {weather} temp = {temp}></NavBar>
+      <AppNavBar moon = {moon} moonSym = {moonSym} weather = {weather} temp = {temp}></AppNavBar>
       <Route exact path = "/">
         <Home></Home>
       </Route>
