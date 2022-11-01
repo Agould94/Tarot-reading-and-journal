@@ -1,10 +1,13 @@
 import logo from '../logo.svg';
 import CardList from './CardList';
+import Home from './Home';
+import AppNavBar from './AppNavBar'
+import JournalForm from './JournalForm'
+import JournalEntries from './JournalEntries'
 import '../App.css';
 import { useEffect, useState, useRef } from 'react';
 import { BrowserRouter, Route } from "react-router-dom";
-import Home from './Home';
-import AppNavBar from './AppNavBar'
+
 import * as Moon from 'lunarphase-js'
 
 function App() {
@@ -15,6 +18,13 @@ function App() {
   const [temp, setTemp] = useState({})
 
   const [weatherLoaded, setWeatherLoaded]=useState(false)
+
+  const [journalCards, setJournalCards]=useState([])
+
+  function handleAddToJournal(cards){
+    setJournalCards(cards)
+    setJournalCards((journalCards)=>{console.log(journalCards)})
+  }
 
 
   useEffect(()=>{
@@ -50,10 +60,16 @@ function App() {
       <Route path = "/threecard">
         {
           weatherLoaded ?
-        <CardList></CardList> 
+        <CardList onAddToJournal={handleAddToJournal}></CardList> 
         :
         <h1>Rendering Cards...</h1>
       }
+      </Route>
+      <Route path = "/journalform">
+        <JournalForm moon = {moon} weather = {weather} temp = {temp} journalCards = {journalCards}></JournalForm>
+      </Route>
+      <Route path = "/journalentries">
+        <JournalEntries></JournalEntries>
       </Route>
     </div>
   );

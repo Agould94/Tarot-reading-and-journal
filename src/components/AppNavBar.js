@@ -19,7 +19,10 @@ function AppNavBar({moon, moonSym, weather, temp}){
                 <Nav.Link href = "/threecard">Card Spreads</Nav.Link>
               </Nav.Item>
               <Nav.Item>
-                <Nav.Link href = "/">Journal</Nav.Link>
+                <Nav.Link href = "/journalform">New Journal</Nav.Link>
+              </Nav.Item>
+              <Nav.Item>
+                <Nav.Link href = "/journalentries">Your Journal</Nav.Link>
               </Nav.Item>
             </Nav>
             <NavBarInfo moon ={moon} weather = {weather} temp = {temp} moonSym ={moonSym}/>
