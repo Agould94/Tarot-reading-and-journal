@@ -1,23 +1,27 @@
 import React from "react";
 import NavBarInfo from "./NavBarInfo"
-import { BrowserRouter, Route, NavLink, Switch } from "react-router-dom"
-import Nav from 'react-bootstrap/Nav'
-import NavBar from 'react-bootstrap/NavBar'
+
+import Nav from 'react-bootstrap/Nav';
+import NavBar from 'react-bootstrap/NavBar';
+import {NavLink} from 'react-router-dom'
+import { NavDropdown } from "react-bootstrap";
 
 
 function AppNavBar({moon, moonSym, weather, temp}){
 
 
   return (
-      <NavBar bg="light" expand = "lg" col = "12" class = "navbar navbar-expand-lg navbar-light bg-light col-12 p-0">
-            <NavBar.Brand style={{fontSize: 35}} >{moonSym}</NavBar.Brand>
+      <NavBar bg="dark" expand = "lg" col = "12" class = "navbar navbar-expand-lg bg-dark navbar-dark col-12 p-0 text-white">
+            <NavBar.Brand style={{fontSize: 35, color: "white"}} >{moonSym} Tarot Journal</NavBar.Brand>
             <Nav variant="pills" class = "nav nav-pills mr-auto">
               <Nav.Item>
                 <Nav.Link href = "/">About</Nav.Link>
               </Nav.Item>
-              <Nav.Item>
-                <Nav.Link href = "/threecard">Card Spreads</Nav.Link>
-              </Nav.Item>
+              <NavDropdown title = "Card Spreads" id = "collapsible-nav-dropdown">
+                  <NavDropdown.Item as = {NavLink} to = {`/singledraw`}>Single Card Draw</NavDropdown.Item>
+                  <NavDropdown.Item as = {NavLink} to = {`/threecard`}>Three Card Spread</NavDropdown.Item>
+                  <NavDropdown.Item as = {NavLink} to =  {`/allcards`}>See All Cards</NavDropdown.Item>
+              </NavDropdown>
               <Nav.Item>
                 <Nav.Link href = "/journalform">New Journal</Nav.Link>
               </Nav.Item>

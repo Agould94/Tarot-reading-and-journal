@@ -1,18 +1,13 @@
 import React, {useEffect, useState} from "react";
-import {useLocation} from "react-router-dom"
+import {useLocation, useHistory} from "react-router-dom"
 import CardQuestions from "./CardQuestions"
 
-function JournalForm({moon, weather, temp}){
+function JournalForm({moon, weather, temp, setEntries}){
     const location = useLocation()
     const [cards, setCards] = useState([])
     const [entry, setEntry] = useState("")
-    
+    const history = useHistory()
 
-    console.log(weather)
-    console.log(temp)
-    console.log(moon)
-
-    console.log(location.cards)
     const journalCards = location.cards
 
     useEffect(()=>{
@@ -23,11 +18,13 @@ function JournalForm({moon, weather, temp}){
     function handleEntryChange(e){
         setEntry(e.target.value)
     }
-    console.log(entry)
+
     function handleSubmit(e){
         e.preventDefault();
+        const date = new Date()
+        const currentDate = `${date.getDate()}/${date.getMonth()+1}/${date.getDate()}`
         const itemData ={
-            date: new Date(),
+            date: currentDate,
             weather: weather.description,
             temperature: temp.temp,
             feelsLike: temp.feels_like,
@@ -45,7 +42,11 @@ function JournalForm({moon, weather, temp}){
             body: JSON.stringify(itemData),
         })
         .then((r)=>r.json())
-        .then((newEntry)=> console.log(newEntry))
+        .then((newEntry)=> {
+            setEntries((entries)=>[...entries, newEntry])
+            history.push("/journalentries")
+        }
+        )
     }
 
     return(
@@ -54,7 +55,7 @@ function JournalForm({moon, weather, temp}){
                 <div class = "container w-50 p-4">
                     <h2>Write Your Journal Entry</h2>
                     <textarea type = "text" class = "form-control" onChange = {handleEntryChange} ></textarea>
-                    <button>Submit</button>
+                    <button className = "btn m-2 btn-dark text-light">Submit</button>
                 </div>
             </form>
             { cards ?

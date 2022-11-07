@@ -1,18 +1,23 @@
-import React, { useEffect } from "react";
+import React from "react";
+import JournalEntry from "./JournalEntry"
 
-function JournalEntries(){
+function JournalEntries({entries}){
+ 
 
-    useEffect(()=>{
-        fetch("http://localhost:4000/journal")
-        .then((r)=>r.json())
-        .then((entries)=>console.log(entries))
-    },[])
+  
 
-
+    const entriesToDisplay = entries.map((entryData)=>{
+        return(
+            <div className="d-flex justify-content-start p-2">
+                
+                &#x2022;<JournalEntry key = {entryData.id} entryData = {entryData}></JournalEntry>
+            </div>
+        )
+    })
 
     return (
-        <div>
-            entries go here
+        <div className="container">
+            {entriesToDisplay}
         </div>
     )
 

@@ -1,11 +1,12 @@
-
+import React from "react"
+import CardCard from "./CardCard"
 
 function CardQuestions({cards}){
     const cardQuestions = cards.map((card)=>{
         return( 
                <div class = "col" key = {card.name}>
                    <div class = "p-2">
-                       <h5>{card.name}:</h5> {
+                       <CardCard card = {card}></CardCard> {
                        card.Questions.map((question, index)=>{
                                return(
                                    <div key = {question}>

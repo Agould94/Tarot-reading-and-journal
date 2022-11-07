@@ -28,6 +28,18 @@
   color: #61dafb;
 }
 
+.cardmat{
+  background-image: linear-gradient(to bottom right, purple, #dbc5e8);
+}
+
+.appbackground{
+  background-color: #efe6f5
+}
+
+.entry{
+  text-align: left;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

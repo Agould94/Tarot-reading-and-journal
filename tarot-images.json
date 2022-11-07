@@ -1,6 +1,7 @@
 {
   "cards": [
     {
+      "id": "1",
       "name": "The Fool",
       "number": "0",
       "arcana": "Major Arcana",
@@ -50,6 +51,7 @@
       ]
     },
     {
+      "id": "2",
       "name": "The Magician",
       "number": "1",
       "arcana": "Major Arcana",
@@ -94,6 +96,7 @@
       ]
     },
     {
+      "id": "3",
       "name": "The High Priestess",
       "number": "2",
       "arcana": "Major Arcana",
@@ -141,6 +144,7 @@
       ]
     },
     {
+      "id": "4",
       "name": "The Empress",
       "number": "3",
       "arcana": "Major Arcana",
@@ -189,6 +193,7 @@
       ]
     },
     {
+      "id": "5",
       "name": "The Emperor",
       "number": "4",
       "arcana": "Major Arcana",
@@ -234,6 +239,7 @@
       ]
     },
     {
+      "id": "6",
       "name": "The Hierophant",
       "number": "5",
       "arcana": "Major Arcana",
@@ -281,6 +287,7 @@
       ]
     },
     {
+      "id": "7",
       "name": "The Lovers",
       "number": "6",
       "arcana": "Major Arcana",
@@ -326,6 +333,7 @@
       ]
     },
     {
+      "id": "8",
       "name": "The Chariot",
       "number": "7",
       "arcana": "Major Arcana",
@@ -370,6 +378,7 @@
       ]
     },
     {
+      "id": "9",
       "name": "Strength",
       "number": "8",
       "arcana": "Major Arcana",
@@ -413,6 +422,7 @@
       ]
     },
     {
+      "id": "10",
       "name": "The Hermit",
       "number": "9",
       "arcana": "Major Arcana",
@@ -457,6 +467,7 @@
       ]
     },
     {
+      "id": "11",
       "name": "Wheel of Fortune",
       "number": "10",
       "arcana": "Major Arcana",
@@ -502,6 +513,7 @@
       ]
     },
     {
+      "id": "12",
       "name": "Justice",
       "number": "11",
       "arcana": "Major Arcana",
@@ -547,6 +559,7 @@
       ]
     },
     {
+      "id": "13",
       "name": "The Hanged Man",
       "number": "12",
       "arcana": "Major Arcana",
@@ -592,6 +605,7 @@
       ]
     },
     {
+      "id": "14",
       "name": "Death",
       "number": "13",
       "arcana": "Major Arcana",
@@ -637,6 +651,7 @@
       ]
     },
     {
+      "id": "15",
       "name": "Temperance",
       "number": "14",
       "arcana": "Major Arcana",
@@ -684,6 +699,7 @@
       ]
     },
     {
+      "id": "16",
       "name": "The Devil",
       "number": "15",
       "arcana": "Major Arcana",
@@ -730,6 +746,7 @@
       ]
     },
     {
+      "id": "17",
       "name": "The Tower",
       "number": "16",
       "arcana": "Major Arcana",
@@ -777,6 +794,7 @@
       ]
     },
     {
+      "id": "18",
       "name": "The Star",
       "number": "17",
       "arcana": "Major Arcana",
@@ -825,6 +843,7 @@
       ]
     },
     {
+      "id": "19",
       "name": "The Moon",
       "number": "18",
       "arcana": "Major Arcana",
@@ -870,6 +889,7 @@
       ]
     },
     {
+      "id": "20",
       "name": "The Sun",
       "number": "19",
       "arcana": "Major Arcana",
@@ -914,6 +934,7 @@
       ]
     },
     {
+      "id": "21",
       "name": "Judgement",
       "number": "20",
       "arcana": "Major Arcana",
@@ -960,6 +981,7 @@
       ]
     },
     {
+      "id": "22",
       "name": "The World",
       "number": "21",
       "arcana": "Major Arcana",
@@ -1005,6 +1027,7 @@
       ]
     },
     {
+      "id": "23",
       "name": "Ace of Cups",
       "number": "1",
       "arcana": "Minor Arcana",
@@ -1049,6 +1072,7 @@
       ]
     },
     {
+      "id": "24",
       "name": "Two of Cups",
       "number": "2",
       "arcana": "Minor Arcana",
@@ -1093,6 +1117,7 @@
       ]
     },
     {
+      "id": "25",
       "name": "Three of Cups",
       "number": "3",
       "arcana": "Minor Arcana",
@@ -1133,6 +1158,7 @@
       ]
     },
     {
+      "id": "26",
       "name": "Four of Cups",
       "number": "4",
       "arcana": "Minor Arcana",
@@ -1176,6 +1202,7 @@
       ]
     },
     {
+      "id": "27",
       "name": "Five of Cups",
       "number": "5",
       "arcana": "Minor Arcana",
@@ -1223,6 +1250,7 @@
       ]
     },
     {
+      "id": "28",
       "name": "Six of Cups",
       "number": "6",
       "arcana": "Minor Arcana",
@@ -1266,6 +1294,7 @@
       ]
     },
     {
+      "id": "29",
       "name": "Seven of Cups",
       "number": "7",
       "arcana": "Minor Arcana",
@@ -1307,6 +1336,7 @@
       ]
     },
     {
+      "id": "30",
       "name": "Eight of Cups",
       "number": "8",
       "arcana": "Minor Arcana",
@@ -1354,6 +1384,7 @@
       ]
     },
     {
+      "id": "31",
       "name": "Nine of Cups",
       "number": "9",
       "arcana": "Minor Arcana",
@@ -1397,6 +1428,7 @@
       ]
     },
     {
+      "id": "32",
       "name": "Ten of Cups",
       "number": "10",
       "arcana": "Minor Arcana",
@@ -1437,6 +1469,7 @@
       ]
     },
     {
+      "id": "33",
       "name": "Page of Cups",
       "number": "11",
       "arcana": "Minor Arcana",
@@ -1479,6 +1512,7 @@
       ]
     },
     {
+      "id": "34",
       "name": "Knight of Cups",
       "number": "12",
       "arcana": "Minor Arcana",
@@ -1519,6 +1553,7 @@
       ]
     },
     {
+      "id": "35",
       "name": "Queen of Cups",
       "number": "13",
       "arcana": "Minor Arcana",
@@ -1559,6 +1594,7 @@
       ]
     },
     {
+      "id": "36",
       "name": "King of Cups",
       "number": "14",
       "arcana": "Minor Arcana",
@@ -1598,6 +1634,7 @@
       ]
     },
     {
+      "id": "37",
       "name": "Ace of Swords",
       "number": "1",
       "arcana": "Minor Arcana",
@@ -1642,6 +1679,7 @@
       ]
     },
     {
+      "id": "38",
       "name": "Two of Swords",
       "number": "2",
       "arcana": "Minor Arcana",
@@ -1684,6 +1722,7 @@
       ]
     },
     {
+      "id": "39",
       "name": "Three of Swords",
       "number": "3",
       "arcana": "Minor Arcana",
@@ -1726,6 +1765,7 @@
       ]
     },
     {
+      "id": "40",
       "name": "Four of Swords",
       "number": "4",
       "arcana": "Minor Arcana",
@@ -1766,6 +1806,7 @@
       ]
     },
     {
+      "id": "41",
       "name": "Five of Swords",
       "number": "5",
       "arcana": "Minor Arcana",
@@ -1811,6 +1852,7 @@
       ]
     },
     {
+      "id": "42",
       "name": "Six of Swords",
       "number": "6",
       "arcana": "Minor Arcana",
@@ -1854,6 +1896,7 @@
       ]
     },
     {
+      "id": "43",
       "name": "Seven of Swords",
       "number": "7",
       "arcana": "Minor Arcana",
@@ -1895,6 +1938,7 @@
       ]
     },
     {
+      "id": "44",
       "name": "Eight of Swords",
       "number": "8",
       "arcana": "Minor Arcana",
@@ -1941,6 +1985,7 @@
       ]
     },
     {
+      "id": "45",
       "name": "Nine of Swords",
       "number": "9",
       "arcana": "Minor Arcana",
@@ -1985,6 +2030,7 @@
       ]
     },
     {
+      "id": "46",
       "name": "Ten of Swords",
       "number": "10",
       "arcana": "Minor Arcana",
@@ -2030,6 +2076,7 @@
       ]
     },
     {
+      "id": "47",
       "name": "Page of Swords",
       "number": "11",
       "arcana": "Minor Arcana",
@@ -2072,6 +2119,7 @@
       ]
     },
     {
+      "id": "48",
       "name": "Knight of Swords",
       "number": "12",
       "arcana": "Minor Arcana",
@@ -2119,6 +2167,7 @@
       ]
     },
     {
+      "id": "49",
       "name": "Queen of Swords",
       "number": "13",
       "arcana": "Minor Arcana",
@@ -2165,6 +2214,7 @@
       ]
     },
     {
+      "id": "50",
       "name": "King of Swords",
       "number": "14",
       "arcana": "Minor Arcana",
@@ -2207,6 +2257,7 @@
       ]
     },
     {
+      "id": "51",
       "name": "Ace of Wands",
       "number": "1",
       "arcana": "Minor Arcana",
@@ -2253,6 +2304,7 @@
       ]
     },
     {
+      "id": "52",
       "name": "Two of Wands",
       "number": "2",
       "arcana": "Minor Arcana",
@@ -2295,6 +2347,7 @@
       ]
     },
     {
+      "id": "53",
       "name": "Three of Wands",
       "number": "3",
       "arcana": "Minor Arcana",
@@ -2337,6 +2390,7 @@
       ]
     },
     {
+      "id": "54",
       "name": "Four of Wands",
       "number": "4",
       "arcana": "Minor Arcana",
@@ -2379,6 +2433,7 @@
       ]
     },
     {
+      "id": "55",
       "name": "Five of Wands",
       "number": "5",
       "arcana": "Minor Arcana",
@@ -2420,6 +2475,7 @@
       ]
     },
     {
+      "id": "56",
       "name": "Six of Wands",
       "number": "6",
       "arcana": "Minor Arcana",
@@ -2465,6 +2521,7 @@
       ]
     },
     {
+      "id": "57",
       "name": "Seven of Wands",
       "number": "7",
       "arcana": "Minor Arcana",
@@ -2506,6 +2563,7 @@
       ]
     },
     {
+      "id": "58",
       "name": "Eight of Wands",
       "number": "8",
       "arcana": "Minor Arcana",
@@ -2550,6 +2608,7 @@
       ]
     },
     {
+      "id": "59",
       "name": "Nine of Wands",
       "number": "9",
       "arcana": "Minor Arcana",
@@ -2596,6 +2655,7 @@
       ]
     },
     {
+      "id": "60",
       "name": "Ten of Wands",
       "number": "10",
       "arcana": "Minor Arcana",
@@ -2637,6 +2697,7 @@
       ]
     },
     {
+      "id": "61",
       "name": "Page of Wands",
       "number": "11",
       "arcana": "Minor Arcana",
@@ -2677,6 +2738,7 @@
       ]
     },
     {
+      "id": "62",
       "name": "Knight of Wands",
       "number": "12",
       "arcana": "Minor Arcana",
@@ -2719,6 +2781,7 @@
       ]
     },
     {
+      "id": "63",
       "name": "Queen of Wands",
       "number": "13",
       "arcana": "Minor Arcana",
@@ -2757,6 +2820,7 @@
       ]
     },
     {
+      "id": "64",
       "name": "King of Wands",
       "number": "14",
       "arcana": "Minor Arcana",
@@ -2795,6 +2859,7 @@
       ]
     },
     {
+      "id": "65",
       "name": "Ace of Pentacles",
       "number": "1",
       "arcana": "Minor Arcana",
@@ -2837,6 +2902,7 @@
       ]
     },
     {
+      "id": "66",
       "name": "Two of Pentacles",
       "number": "2",
       "arcana": "Minor Arcana",
@@ -2880,6 +2946,7 @@
       ]
     },
     {
+      "id": "67",
       "name": "Three of Pentacles",
       "number": "3",
       "arcana": "Minor Arcana",
@@ -2924,6 +2991,7 @@
       ]
     },
     {
+      "id": "68",
       "name": "Four of Pentacles",
       "number": "4",
       "arcana": "Minor Arcana",
@@ -2967,6 +3035,7 @@
       ]
     },
     {
+      "id": "69",
       "name": "Five of Pentacles",
       "number": "5",
       "arcana": "Minor Arcana",
@@ -3011,6 +3080,7 @@
       ]
     },
     {
+      "id": "70",
       "name": "Six of Pentacles",
       "number": "6",
       "arcana": "Minor Arcana",
@@ -3055,6 +3125,7 @@
       ]
     },
     {
+      "id": "71",
       "name": "Seven of Pentacles",
       "number": "7",
       "arcana": "Minor Arcana",
@@ -3098,6 +3169,7 @@
       ]
     },
     {
+      "id": "72",
       "name": "Eight of Pentacles",
       "number": "8",
       "arcana": "Minor Arcana",
@@ -3143,6 +3215,7 @@
       ]
     },
     {
+      "id": "73",
       "name": "Nine of Pentacles",
       "number": "9",
       "arcana": "Minor Arcana",
@@ -3184,6 +3257,7 @@
       ]
     },
     {
+      "id": "74",
       "name": "Ten of Pentacles",
       "number": "10",
       "arcana": "Minor Arcana",
@@ -3226,6 +3300,7 @@
       ]
     },
     {
+      "id": "75",
       "name": "Page of Pentacles",
       "number": "11",
       "arcana": "Minor Arcana",
@@ -3268,6 +3343,7 @@
       ]
     },
     {
+      "id": "76",
       "name": "Knight of Pentacles",
       "number": "12",
       "arcana": "Minor Arcana",
@@ -3313,6 +3389,7 @@
       ]
     },
     {
+      "id": "77",
       "name": "Queen of Pentacles",
       "number": "13",
       "arcana": "Minor Arcana",
@@ -3354,6 +3431,7 @@
       ]
     },
     {
+      "id": "78",
       "name": "King of Pentacles",
       "number": "14",
       "arcana": "Minor Arcana",
@@ -3822,6 +3900,847 @@
       "lunarPhase": "First Quarter",
       "entry": "this is my journal entry",
       "id": 4
+    },
+    {
+      "date": "31/10/31",
+      "weather": "clear sky",
+      "temperature": 80.69,
+      "feelsLike": 86.81,
+      "humidity": 86,
+      "lunarPhase": "First Quarter",
+      "entry": "this is an awesome new application and i like this tarot reading\n",
+      "cards": [
+        {
+          "name": "Ten of Wands",
+          "number": "10",
+          "arcana": "Minor Arcana",
+          "suit": "Wands",
+          "img": "w10.jpg",
+          "fortune_telling": [
+            "You're worn out",
+            "Back off, take a time out, and let someone else handle things for a while"
+          ],
+          "keywords": [
+            "exhaustion",
+            "resistance",
+            "burden",
+            "oppression"
+          ],
+          "meanings": {
+            "light": [
+              "Holding your own in extreme circumstances",
+              "Helping others carry their burdens",
+              "Coming to the aid of the oppressed",
+              "Knowing and being honest about your own limits",
+              "Recognizing when you are not well-suited for a particular task"
+            ],
+            "shadow": [
+              "Taking on more work than you know you can handle",
+              "Refusing to say \"No\" when you're already overloaded",
+              "Making a habit of working overtime",
+              "Shielding others from facing the consequences of their own poor judgment",
+              "Over-extending yourself on a regular basis"
+            ]
+          },
+          "Numerology": "10 (The End: finality, completion, exhaustion)",
+          "Astrology": "Saturn in Sagittarius",
+          "Affirmation": "\"I respect my own limits.\"",
+          "Questions": [
+            "How will you know when you reach the end of your rope?",
+            "How easily do you say no to new projects and requests?",
+            "What projects could you delegate...or eliminate?"
+          ]
+        },
+        {
+          "name": "Ten of Cups",
+          "number": "10",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "img": "c10.jpg",
+          "fortune_telling": [
+            "Marriage and family are in the cards",
+            "Expect a friendship to blossom into a romance"
+          ],
+          "keywords": [
+            "joy",
+            "fulfillment",
+            "overwhelming emotion",
+            "giddiness"
+          ],
+          "meanings": {
+            "light": [
+              "Having more than you ever dreamed",
+              "Being deeply thankful for all you've been given",
+              "Recognizing the Hand of God in the gifts the Universe brings your way",
+              "Experiencing transcendent joy",
+              "Achieving domestic bliss"
+            ],
+            "shadow": [
+              "Comparing your achievements or relationships to unrealistic fantasy standards",
+              "Experiencing emotions so intense they blunt your ability to cope with reality",
+              "Feeling overwhelmed",
+              "Envying the achievements and happiness of others"
+            ]
+          },
+          "Numerology": "10 (The End: finality, completion, exhaustion)",
+          "Astrology": "Mars in Pisces",
+          "Affirmation": "\"I take time to appreciate what I've been given.\"",
+          "Questions": [
+            "Who gets to define what \"joy\" consists of?",
+            "What course of action is available when you feel overwhelmed?",
+            "How might vows or promises play a role in achieving a greater level of joy in your life?"
+          ]
+        },
+        {
+          "name": "Ace of Cups",
+          "number": "1",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "img": "c01.jpg",
+          "fortune_telling": [
+            "Romance is in the cards",
+            "A new relationship or marriage is just around the corner",
+            "Prayers are answered"
+          ],
+          "keywords": [
+            "intuition",
+            "spirituality",
+            "affection",
+            "motivation"
+          ],
+          "meanings": {
+            "light": [
+              "Trusting your feelings",
+              "Opening yourself to spirit",
+              "Accepting and returning affection",
+              "Getting in touch with what motivates you",
+              "Taking advantage of an opportunity to express love to others",
+              "Listening to the still, small voice"
+            ],
+            "shadow": [
+              "Hiding your feelings",
+              "Spurning an opportunity to love or be loved",
+              "Numbing yourself to spiritual yearnings",
+              "Rejecting the counsel of your heart",
+              "Becoming a puppet of your own emotions",
+              "Indulging in hysteria or obsession"
+            ]
+          },
+          "Numerology": "1 (The Origin: the starting point, the seed, opportunity)",
+          "Astrology": "Cancer, Scorpio, Pisces",
+          "Affirmation": "\"I listen to the counsel of my heart.\"",
+          "Questions": [
+            "What am I feeling right now?",
+            "How would I go about opening myself to spiritual guidance?",
+            "What motivates me the most - pleasure or pain? Why?"
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "date": "31/10/31",
+      "weather": "clear sky",
+      "temperature": 80.69,
+      "feelsLike": 86.81,
+      "humidity": 86,
+      "lunarPhase": "First Quarter",
+      "entry": "this is an awesome new application and i like this tarot reading\n",
+      "cards": [
+        {
+          "name": "Ten of Wands",
+          "number": "10",
+          "arcana": "Minor Arcana",
+          "suit": "Wands",
+          "img": "w10.jpg",
+          "fortune_telling": [
+            "You're worn out",
+            "Back off, take a time out, and let someone else handle things for a while"
+          ],
+          "keywords": [
+            "exhaustion",
+            "resistance",
+            "burden",
+            "oppression"
+          ],
+          "meanings": {
+            "light": [
+              "Holding your own in extreme circumstances",
+              "Helping others carry their burdens",
+              "Coming to the aid of the oppressed",
+              "Knowing and being honest about your own limits",
+              "Recognizing when you are not well-suited for a particular task"
+            ],
+            "shadow": [
+              "Taking on more work than you know you can handle",
+              "Refusing to say \"No\" when you're already overloaded",
+              "Making a habit of working overtime",
+              "Shielding others from facing the consequences of their own poor judgment",
+              "Over-extending yourself on a regular basis"
+            ]
+          },
+          "Numerology": "10 (The End: finality, completion, exhaustion)",
+          "Astrology": "Saturn in Sagittarius",
+          "Affirmation": "\"I respect my own limits.\"",
+          "Questions": [
+            "How will you know when you reach the end of your rope?",
+            "How easily do you say no to new projects and requests?",
+            "What projects could you delegate...or eliminate?"
+          ]
+        },
+        {
+          "name": "Ten of Cups",
+          "number": "10",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "img": "c10.jpg",
+          "fortune_telling": [
+            "Marriage and family are in the cards",
+            "Expect a friendship to blossom into a romance"
+          ],
+          "keywords": [
+            "joy",
+            "fulfillment",
+            "overwhelming emotion",
+            "giddiness"
+          ],
+          "meanings": {
+            "light": [
+              "Having more than you ever dreamed",
+              "Being deeply thankful for all you've been given",
+              "Recognizing the Hand of God in the gifts the Universe brings your way",
+              "Experiencing transcendent joy",
+              "Achieving domestic bliss"
+            ],
+            "shadow": [
+              "Comparing your achievements or relationships to unrealistic fantasy standards",
+              "Experiencing emotions so intense they blunt your ability to cope with reality",
+              "Feeling overwhelmed",
+              "Envying the achievements and happiness of others"
+            ]
+          },
+          "Numerology": "10 (The End: finality, completion, exhaustion)",
+          "Astrology": "Mars in Pisces",
+          "Affirmation": "\"I take time to appreciate what I've been given.\"",
+          "Questions": [
+            "Who gets to define what \"joy\" consists of?",
+            "What course of action is available when you feel overwhelmed?",
+            "How might vows or promises play a role in achieving a greater level of joy in your life?"
+          ]
+        },
+        {
+          "name": "Ace of Cups",
+          "number": "1",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "img": "c01.jpg",
+          "fortune_telling": [
+            "Romance is in the cards",
+            "A new relationship or marriage is just around the corner",
+            "Prayers are answered"
+          ],
+          "keywords": [
+            "intuition",
+            "spirituality",
+            "affection",
+            "motivation"
+          ],
+          "meanings": {
+            "light": [
+              "Trusting your feelings",
+              "Opening yourself to spirit",
+              "Accepting and returning affection",
+              "Getting in touch with what motivates you",
+              "Taking advantage of an opportunity to express love to others",
+              "Listening to the still, small voice"
+            ],
+            "shadow": [
+              "Hiding your feelings",
+              "Spurning an opportunity to love or be loved",
+              "Numbing yourself to spiritual yearnings",
+              "Rejecting the counsel of your heart",
+              "Becoming a puppet of your own emotions",
+              "Indulging in hysteria or obsession"
+            ]
+          },
+          "Numerology": "1 (The Origin: the starting point, the seed, opportunity)",
+          "Astrology": "Cancer, Scorpio, Pisces",
+          "Affirmation": "\"I listen to the counsel of my heart.\"",
+          "Questions": [
+            "What am I feeling right now?",
+            "How would I go about opening myself to spiritual guidance?",
+            "What motivates me the most - pleasure or pain? Why?"
+          ]
+        }
+      ],
+      "id": 6
+    },
+    {
+      "date": "31/10/31",
+      "weather": "clear sky",
+      "temperature": 80.69,
+      "feelsLike": 86.81,
+      "humidity": 86,
+      "lunarPhase": "First Quarter",
+      "entry": "this is an awesome new application and i like this tarot reading\n",
+      "cards": [
+        {
+          "name": "Ten of Wands",
+          "number": "10",
+          "arcana": "Minor Arcana",
+          "suit": "Wands",
+          "img": "w10.jpg",
+          "fortune_telling": [
+            "You're worn out",
+            "Back off, take a time out, and let someone else handle things for a while"
+          ],
+          "keywords": [
+            "exhaustion",
+            "resistance",
+            "burden",
+            "oppression"
+          ],
+          "meanings": {
+            "light": [
+              "Holding your own in extreme circumstances",
+              "Helping others carry their burdens",
+              "Coming to the aid of the oppressed",
+              "Knowing and being honest about your own limits",
+              "Recognizing when you are not well-suited for a particular task"
+            ],
+            "shadow": [
+              "Taking on more work than you know you can handle",
+              "Refusing to say \"No\" when you're already overloaded",
+              "Making a habit of working overtime",
+              "Shielding others from facing the consequences of their own poor judgment",
+              "Over-extending yourself on a regular basis"
+            ]
+          },
+          "Numerology": "10 (The End: finality, completion, exhaustion)",
+          "Astrology": "Saturn in Sagittarius",
+          "Affirmation": "\"I respect my own limits.\"",
+          "Questions": [
+            "How will you know when you reach the end of your rope?",
+            "How easily do you say no to new projects and requests?",
+            "What projects could you delegate...or eliminate?"
+          ]
+        },
+        {
+          "name": "Ten of Cups",
+          "number": "10",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "img": "c10.jpg",
+          "fortune_telling": [
+            "Marriage and family are in the cards",
+            "Expect a friendship to blossom into a romance"
+          ],
+          "keywords": [
+            "joy",
+            "fulfillment",
+            "overwhelming emotion",
+            "giddiness"
+          ],
+          "meanings": {
+            "light": [
+              "Having more than you ever dreamed",
+              "Being deeply thankful for all you've been given",
+              "Recognizing the Hand of God in the gifts the Universe brings your way",
+              "Experiencing transcendent joy",
+              "Achieving domestic bliss"
+            ],
+            "shadow": [
+              "Comparing your achievements or relationships to unrealistic fantasy standards",
+              "Experiencing emotions so intense they blunt your ability to cope with reality",
+              "Feeling overwhelmed",
+              "Envying the achievements and happiness of others"
+            ]
+          },
+          "Numerology": "10 (The End: finality, completion, exhaustion)",
+          "Astrology": "Mars in Pisces",
+          "Affirmation": "\"I take time to appreciate what I've been given.\"",
+          "Questions": [
+            "Who gets to define what \"joy\" consists of?",
+            "What course of action is available when you feel overwhelmed?",
+            "How might vows or promises play a role in achieving a greater level of joy in your life?"
+          ]
+        },
+        {
+          "name": "Ace of Cups",
+          "number": "1",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "img": "c01.jpg",
+          "fortune_telling": [
+            "Romance is in the cards",
+            "A new relationship or marriage is just around the corner",
+            "Prayers are answered"
+          ],
+          "keywords": [
+            "intuition",
+            "spirituality",
+            "affection",
+            "motivation"
+          ],
+          "meanings": {
+            "light": [
+              "Trusting your feelings",
+              "Opening yourself to spirit",
+              "Accepting and returning affection",
+              "Getting in touch with what motivates you",
+              "Taking advantage of an opportunity to express love to others",
+              "Listening to the still, small voice"
+            ],
+            "shadow": [
+              "Hiding your feelings",
+              "Spurning an opportunity to love or be loved",
+              "Numbing yourself to spiritual yearnings",
+              "Rejecting the counsel of your heart",
+              "Becoming a puppet of your own emotions",
+              "Indulging in hysteria or obsession"
+            ]
+          },
+          "Numerology": "1 (The Origin: the starting point, the seed, opportunity)",
+          "Astrology": "Cancer, Scorpio, Pisces",
+          "Affirmation": "\"I listen to the counsel of my heart.\"",
+          "Questions": [
+            "What am I feeling right now?",
+            "How would I go about opening myself to spiritual guidance?",
+            "What motivates me the most - pleasure or pain? Why?"
+          ]
+        }
+      ],
+      "id": 7
+    },
+    {
+      "date": "31/10/31",
+      "weather": "clear sky",
+      "temperature": 80.69,
+      "feelsLike": 86.81,
+      "humidity": 86,
+      "lunarPhase": "First Quarter",
+      "entry": "",
+      "cards": [
+        {
+          "name": "Ten of Wands",
+          "number": "10",
+          "arcana": "Minor Arcana",
+          "suit": "Wands",
+          "img": "w10.jpg",
+          "fortune_telling": [
+            "You're worn out",
+            "Back off, take a time out, and let someone else handle things for a while"
+          ],
+          "keywords": [
+            "exhaustion",
+            "resistance",
+            "burden",
+            "oppression"
+          ],
+          "meanings": {
+            "light": [
+              "Holding your own in extreme circumstances",
+              "Helping others carry their burdens",
+              "Coming to the aid of the oppressed",
+              "Knowing and being honest about your own limits",
+              "Recognizing when you are not well-suited for a particular task"
+            ],
+            "shadow": [
+              "Taking on more work than you know you can handle",
+              "Refusing to say \"No\" when you're already overloaded",
+              "Making a habit of working overtime",
+              "Shielding others from facing the consequences of their own poor judgment",
+              "Over-extending yourself on a regular basis"
+            ]
+          },
+          "Numerology": "10 (The End: finality, completion, exhaustion)",
+          "Astrology": "Saturn in Sagittarius",
+          "Affirmation": "\"I respect my own limits.\"",
+          "Questions": [
+            "How will you know when you reach the end of your rope?",
+            "How easily do you say no to new projects and requests?",
+            "What projects could you delegate...or eliminate?"
+          ]
+        },
+        {
+          "name": "Ten of Cups",
+          "number": "10",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "img": "c10.jpg",
+          "fortune_telling": [
+            "Marriage and family are in the cards",
+            "Expect a friendship to blossom into a romance"
+          ],
+          "keywords": [
+            "joy",
+            "fulfillment",
+            "overwhelming emotion",
+            "giddiness"
+          ],
+          "meanings": {
+            "light": [
+              "Having more than you ever dreamed",
+              "Being deeply thankful for all you've been given",
+              "Recognizing the Hand of God in the gifts the Universe brings your way",
+              "Experiencing transcendent joy",
+              "Achieving domestic bliss"
+            ],
+            "shadow": [
+              "Comparing your achievements or relationships to unrealistic fantasy standards",
+              "Experiencing emotions so intense they blunt your ability to cope with reality",
+              "Feeling overwhelmed",
+              "Envying the achievements and happiness of others"
+            ]
+          },
+          "Numerology": "10 (The End: finality, completion, exhaustion)",
+          "Astrology": "Mars in Pisces",
+          "Affirmation": "\"I take time to appreciate what I've been given.\"",
+          "Questions": [
+            "Who gets to define what \"joy\" consists of?",
+            "What course of action is available when you feel overwhelmed?",
+            "How might vows or promises play a role in achieving a greater level of joy in your life?"
+          ]
+        },
+        {
+          "name": "Ace of Cups",
+          "number": "1",
+          "arcana": "Minor Arcana",
+          "suit": "Cups",
+          "img": "c01.jpg",
+          "fortune_telling": [
+            "Romance is in the cards",
+            "A new relationship or marriage is just around the corner",
+            "Prayers are answered"
+          ],
+          "keywords": [
+            "intuition",
+            "spirituality",
+            "affection",
+            "motivation"
+          ],
+          "meanings": {
+            "light": [
+              "Trusting your feelings",
+              "Opening yourself to spirit",
+              "Accepting and returning affection",
+              "Getting in touch with what motivates you",
+              "Taking advantage of an opportunity to express love to others",
+              "Listening to the still, small voice"
+            ],
+            "shadow": [
+              "Hiding your feelings",
+              "Spurning an opportunity to love or be loved",
+              "Numbing yourself to spiritual yearnings",
+              "Rejecting the counsel of your heart",
+              "Becoming a puppet of your own emotions",
+              "Indulging in hysteria or obsession"
+            ]
+          },
+          "Numerology": "1 (The Origin: the starting point, the seed, opportunity)",
+          "Astrology": "Cancer, Scorpio, Pisces",
+          "Affirmation": "\"I listen to the counsel of my heart.\"",
+          "Questions": [
+            "What am I feeling right now?",
+            "How would I go about opening myself to spiritual guidance?",
+            "What motivates me the most - pleasure or pain? Why?"
+          ]
+        }
+      ],
+      "id": 8
+    },
+    {
+      "date": "3/11/3",
+      "weather": "scattered clouds",
+      "temperature": 79.16,
+      "feelsLike": 79.16,
+      "humidity": 85,
+      "lunarPhase": "First Quarter",
+      "entry": "When things get tough I cope with good friends, conversation, mediation, and sleep. \n\nWhen I get low, I think of time with friends and family and of all the positive things in my future. \n\nI hope to let this situation go as soon as i can to move on to bigger and better things. ",
+      "cards": [
+        {
+          "name": "Nine of Wands",
+          "number": "9",
+          "arcana": "Minor Arcana",
+          "suit": "Wands",
+          "img": "w09.jpg",
+          "fortune_telling": [
+            "Don't relax yet; there's more to come",
+            "The test you're facing now is happening for one reason: to show you who your real friends are"
+          ],
+          "keywords": [
+            "toughness",
+            "persistence",
+            "stamina",
+            "loyalty",
+            "release"
+          ],
+          "meanings": {
+            "light": [
+              "Sticking with it for the duration",
+              "Fulfilling your promises and obligations",
+              "Bearing up under incredible duress",
+              "Dragging yourself across the finish line",
+              "Picking yourself up by your own bootstraps",
+              "Refusing to quit",
+              "Going as far as you can go and being satisfied with your performance"
+            ],
+            "shadow": [
+              "Making yourself a martyr",
+              "Abandoning your post",
+              "Giving up at the first sign of opposition",
+              "Being prevented from fulfilling an obligation",
+              "Failing to be dependable",
+              "Refusing to let something go that needs to be released",
+              "Beating a dead horse"
+            ]
+          },
+          "Numerology": "9 (The Completion: fullness, readiness, ripeness)",
+          "Astrology": "Moon in Sagittarius",
+          "Affirmation": "\"When the going gets tough, I stay the course.\"",
+          "Questions": [
+            "How do you cope when things get really tough?",
+            "When you get low, what encourages you to go on?",
+            "At what point should you be able to let this situation go?"
+          ]
+        }
+      ],
+      "id": 9
+    },
+    {
+      "date": "3/11/3",
+      "weather": "scattered clouds",
+      "temperature": 79.02,
+      "feelsLike": 79.02,
+      "humidity": 86,
+      "lunarPhase": "First Quarter",
+      "entry": "This is a new journal entry, I feel good about all the coding I am doing here tonight.",
+      "id": 10
+    },
+    {
+      "date": "3/11/3",
+      "weather": "scattered clouds",
+      "temperature": 79.02,
+      "feelsLike": 79.02,
+      "humidity": 86,
+      "lunarPhase": "First Quarter",
+      "entry": "This is a new journal entry, I feel good about all the coding I am doing here tonight.",
+      "id": 11
+    },
+    {
+      "date": "3/11/3",
+      "weather": "scattered clouds",
+      "temperature": 79.02,
+      "feelsLike": 79.02,
+      "humidity": 86,
+      "lunarPhase": "First Quarter",
+      "entry": "i hope this time works",
+      "id": 12
+    },
+    {
+      "date": "7/11/7",
+      "weather": "scattered clouds",
+      "temperature": 82.15,
+      "feelsLike": 86.27,
+      "humidity": 68,
+      "lunarPhase": "Full",
+      "entry": "this is a new journal entry for this reading. ",
+      "cards": [
+        {
+          "id": "62",
+          "name": "Knight of Wands",
+          "number": "12",
+          "arcana": "Minor Arcana",
+          "suit": "Wands",
+          "img": "w12.jpg",
+          "fortune_telling": [
+            "This card represents a man with a bold, passionate personality, likely born between July 12th and August 11th, who wants to sweep you off your feet"
+          ],
+          "keywords": [
+            "boldness",
+            "bravado",
+            "passion",
+            "persuasion",
+            "advocacy"
+          ],
+          "meanings": {
+            "light": [
+              "Charging ahead",
+              "Making rapid progress",
+              "Refusing limits",
+              "Dazzling those around you with your wit and charm",
+              "Convincing others of your right to leadership",
+              "Convincing others to follow you",
+              "Being a catalyst for change"
+            ],
+            "shadow": [
+              "Blundering forward with inadequate skill or information",
+              "Running roughshod over the feelings of others",
+              "Using sex appeal to manipulate others",
+              "Forcing your leadership or ideology on others",
+              "Beginning many projects without finishing any"
+            ]
+          },
+          "Elemental": "Air of Fire.",
+          "Affirmation": "\"I can lead the way to success.\"",
+          "Questions": [
+            "To what extent have you defined your ultimate goal?",
+            "What's the fastest way to get the job done? Is this necessarily the best way?",
+            "How long has it been since you looked back to see if others really are following your lead?"
+          ]
+        },
+        {
+          "id": "44",
+          "name": "Eight of Swords",
+          "number": "8",
+          "arcana": "Minor Arcana",
+          "suit": "Swords",
+          "img": "s08.jpg",
+          "fortune_telling": [
+            "Get over playing the victim",
+            "Once you realize you are your own biggest obstacle, nothing can hold you back"
+          ],
+          "keywords": [
+            "restriction",
+            "limitation",
+            "confinement",
+            "helplessness"
+          ],
+          "meanings": {
+            "light": [
+              "Honoring limits",
+              "Respecting the rules",
+              "Deciding to go on a diet for your health's sake",
+              "Recognizing you cannot always be in control",
+              "Identifying obstacles to further progress",
+              "Refusing to think about unhealthy or unethical options",
+              "Asking for assistance"
+            ],
+            "shadow": [
+              "Feeling trapped",
+              "Being lost in a maze of rules and regulations",
+              "Giving in to despair",
+              "Playing the victim",
+              "Allowing others to dictate what you can and cannot do",
+              "Being rendered helpless",
+              "Having very few options",
+              "Failing to look for a way out"
+            ]
+          },
+          "Numerology": "8 (The Action: movement, outer work, swiftness)",
+          "Astrology": "Jupiter in Gemini",
+          "Affirmation": "\"I know my own limits.\"",
+          "Questions": [
+            "Who's empowered to cut through the red tape?",
+            "What, exactly, are the obstacles? What resources, exactly, are needed to move them?",
+            "To what extent is your powerlessness a matter of attitude?"
+          ]
+        },
+        {
+          "id": "43",
+          "name": "Seven of Swords",
+          "number": "7",
+          "arcana": "Minor Arcana",
+          "suit": "Swords",
+          "img": "s07.jpg",
+          "fortune_telling": [
+            "Don't assume people around you are worthy of your trust",
+            "Ask for an accounting of where people have been, and what they've been doing"
+          ],
+          "keywords": [
+            "dishonesty",
+            "presumption",
+            "sneakiness",
+            "assumptions"
+          ],
+          "meanings": {
+            "light": [
+              "Refusing to do something dishonest, even when there's no chance of ever being caught",
+              "Handling a difficult situation with finesse",
+              "Pointing out assumptions",
+              "Acting ethically in public and in private",
+              "Living a life that is beyond reproach"
+            ],
+            "shadow": [
+              "Stealing or lying",
+              "Doing whatever you can get away with, simply because you can",
+              "Looking for a way around consequences",
+              "Justifying wicked behavior by focusing on the wickedness of others",
+              "Failing to examine your own motives and prejudices"
+            ]
+          },
+          "Numerology": "7 (The Motive: imagination, inner work, psychology)",
+          "Astrology": "Moon in Aquarius",
+          "Affirmation": "\"I hold myself to the highest ethical standards.\"",
+          "Questions": [
+            "What assumptions am I making?",
+            "How well-defined is my sense of ethics?",
+            "How should I respond when I know others are breaking the rules?"
+          ]
+        }
+      ],
+      "id": 13
+    },
+    {
+      "date": "7/11/7",
+      "weather": "clear sky",
+      "temperature": 82.18,
+      "feelsLike": 86.34,
+      "humidity": 68,
+      "lunarPhase": "Full",
+      "entry": "new entry",
+      "cards": [
+        {
+          "id": "4",
+          "name": "The Empress",
+          "number": "3",
+          "arcana": "Major Arcana",
+          "suit": "Trump",
+          "img": "m03.jpg",
+          "fortune_telling": [
+            "Pregnancy is in the cards",
+            "An opportunity to be involved in luxurious sexuality is coming",
+            "Beware a tendency toward addiction"
+          ],
+          "keywords": [
+            "fertility",
+            "productivity",
+            "ripeness",
+            "nurturing"
+          ],
+          "meanings": {
+            "light": [
+              "Nurturing yourself and others",
+              "Bearing fruit",
+              "Celebrating your body",
+              "Bearing (literal or figurative) children",
+              "Reveling in luxury",
+              "Mothering those around you in positive ways",
+              "Enjoying your sexuality",
+              "Getting things done"
+            ],
+            "shadow": [
+              "Overindulging",
+              "Being greedy",
+              "Smothering someone with attention",
+              "Debilitating someone by being overprotective",
+              "Inhibiting productivity by obsessing on productivity",
+              "Being overcome by addictive behavior"
+            ]
+          },
+          "Archetype": "The Mother",
+          "Hebrew Alphabet": "Daleth/Door/4",
+          "Numerology": "3 (expression, productivity, output)",
+          "Elemental": "Venus",
+          "Mythical/Spiritual": "Gaia, Mother Earth, Ishtar, DemeterÑmature, reproductive female divinity in every form. Also Aphrodite and Turan. ",
+          "Questions": [
+            "What would a concerned and capable mother do?",
+            "What can I do that would emphasize growth?",
+            "How can I celebrate my own sensuality and sexuality?"
+          ]
+        }
+      ],
+      "id": 14
     }
   ]
 }
