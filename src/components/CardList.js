@@ -18,7 +18,7 @@ function CardList(){
         setFirst(!first)
     }
 
-
+    console.log(match)
     useEffect(()=>{
         fetch("http://localhost:4000/cards")
         .then((r)=>r.json())
@@ -39,21 +39,22 @@ function CardList(){
         const shuffled = d.sort(()=>0.5 -Math.random())
             if (match == "/threecard"){
                 selected = shuffled.slice(0,3)
+            }else if(match == "/allcards"){
+                selected = d.sort((a,b)=> a.id - b.id)
             }else if(match == "/singledraw" || "/"){
                 selected = shuffled.slice(0,1)
-            }else{
-                selected = d.sort((a,b)=> a.id - b.id)
             }
+            
             setSelected(selected)
         }else{
             const shuffled = cards.sort(()=>0.5 -Math.random())
             if (match == "/threecard"){
                 selected = shuffled.slice(0,3)
-            }else if(match =="/singledraw" || "/"){
-                selected = shuffled.slice(0,1)
-            }else{
+            }else if(match == "/allcards"){
                 console.log(cards)
                 selected = cards.sort((a,b)=> a.id - b.id)
+            }else if(match =="/singledraw" || "/"){
+                selected = shuffled.slice(0,1)
             }
             setSelected(selected)
         }

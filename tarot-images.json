@@ -4741,6 +4741,152 @@
         }
       ],
       "id": 14
+    },
+    {
+      "date": "7/11/7",
+      "weather": "clear sky",
+      "temperature": 77.18,
+      "feelsLike": 77.88,
+      "humidity": 70,
+      "lunarPhase": "Full",
+      "entry": "I can alter my perspective by seeing things more positively.",
+      "cards": [
+        {
+          "id": "40",
+          "name": "Four of Swords",
+          "number": "4",
+          "arcana": "Minor Arcana",
+          "suit": "Swords",
+          "img": "s04.jpg",
+          "fortune_telling": [
+            "Don't make any decision now",
+            "Wait, and you'll be glad you did"
+          ],
+          "keywords": [
+            "meditation",
+            "contemplation",
+            "perspective",
+            "mindset"
+          ],
+          "meanings": {
+            "light": [
+              "Thinking over your plans before putting them into action",
+              "Pausing to meditate or clear your mind",
+              "Taking time to understand someone or something before criticizing it",
+              "Resting",
+              "Occupying your thoughts with a healthy distraction"
+            ],
+            "shadow": [
+              "Failing to think things through",
+              "Mistaking procrastination for thoughtfulness",
+              "Adopting a point of view and refusing to reconsider your conclusions, even when presented with refuting evidence",
+              "Allowing chaos and whimsy to dominate your thoughts"
+            ]
+          },
+          "Numerology": "4 (The Status Quo: stability, equality, persistence)",
+          "Astrology": "Jupiter in Libra",
+          "Affirmation": "\"I think before taking action.\"",
+          "Questions": [
+            "How long has it been since you deliberately took a \"time out?\"",
+            "How difficult is it for you to meditate?",
+            "What would happen if you simply refused to make a decision today?"
+          ]
+        },
+        {
+          "id": "49",
+          "name": "Queen of Swords",
+          "number": "13",
+          "arcana": "Minor Arcana",
+          "suit": "Swords",
+          "img": "s13.jpg",
+          "fortune_telling": [
+            "This card represents a woman with an artistic, intellectual nature, likely born between September 12th and October 12th, who uses clever, positive communication to sway others to her point of view"
+          ],
+          "keywords": [
+            "grace",
+            "skill",
+            "wit",
+            "charm",
+            "aptitude"
+          ],
+          "meanings": {
+            "light": [
+              "Exercising tact or using diplomacy",
+              "Defusing a tense situation",
+              "Knowing what to say and how to say it",
+              "Making others feel comfortable and confident",
+              "Bringing out the best in everyone",
+              "Having a way with words",
+              "Telling jokes",
+              "Possessing a knack for music, math, art, or science"
+            ],
+            "shadow": [
+              "Knowing exactly what to say to destroy another person",
+              "Withholding critical information",
+              "Using a barbed tongue to upset others",
+              "Employing sarcasm",
+              "Mimicking others unkindly",
+              "Making light of the less fortunate",
+              "Being disrespectful",
+              "Failing to use the talent you've been given"
+            ]
+          },
+          "Elemental": "Water of Air.",
+          "Affirmation": "\"I make the truth easier to hear.\"",
+          "Questions": [
+            "What do I have a knack for? How might my special gift prove useful now?",
+            "To what extent am I capable of saying what needs to be said?",
+            "What is the best possible way to say what I want to say?"
+          ]
+        },
+        {
+          "id": "13",
+          "name": "The Hanged Man",
+          "number": "12",
+          "arcana": "Major Arcana",
+          "suit": "Trump",
+          "img": "m12.jpg",
+          "fortune_telling": [
+            "A traitor is revealed",
+            "One of your friends is working against you",
+            "Change your ways or suffer the consequences"
+          ],
+          "keywords": [
+            "enlightenment",
+            "sacrifice",
+            "perspective",
+            "suspension",
+            "reversals"
+          ],
+          "meanings": {
+            "light": [
+              "Seeing growth opportunities in unpleasant events",
+              "Experiencing a dramatic change in personal perspective",
+              "Making the best of an unforeseen change in your life or work",
+              "Suspending disbelief",
+              "Making sacrifices"
+            ],
+            "shadow": [
+              "Being untrue to yourself and your values",
+              "Refusing to make sacrifices when appropriate",
+              "Refusing to adapt to new situations",
+              "Blaming others",
+              "Profiting at the expense of others"
+            ]
+          },
+          "Archetype": "The Traitor",
+          "Hebrew Alphabet": "Mem/Water/40",
+          "Numerology": "12 = 1 + 2 = 3 (expression, productivity, output)",
+          "Elemental": "Water",
+          "Mythical/Spiritual": "The Crucified Christ. Isaac as a sacrifice. Prometheus bound. Jonah and the whale. Lazarus. Any hanged or sacrificed god. Judas.",
+          "Questions": [
+            "How can I radically alter my perspective?",
+            "How might being stuck actually be a blessing in disguise?",
+            "How can I help myself see the glass as half full?"
+          ]
+        }
+      ],
+      "id": 15
     }
   ]
 }
