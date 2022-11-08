@@ -2,7 +2,7 @@ import React from "react";
 import NavBarInfo from "./NavBarInfo"
 
 import Nav from 'react-bootstrap/Nav';
-import NavBar from 'react-bootstrap/cjs/NavBar';
+import NavBar from 'react-bootstrap/NavBar';
 import {NavLink} from 'react-router-dom'
 import { NavDropdown } from "react-bootstrap";
 

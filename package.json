@@ -2,7 +2,7 @@
   "name": "tarot-card-draw-and-journal",
   "version": "0.1.0",
   "private": true,
-  "engines":{
+  "engines": {
     "node": "16.x"
   },
   "dependencies": {
@@ -13,6 +13,7 @@
     "lunarphase-js": "^1.0.10",
     "react": "^18.2.0",
     "react-bootstrap": "^2.5.0",
+    "react-bootstrap-validation": "^0.1.11",
     "react-dom": "^18.2.0",
     "react-router-dom": "^5.3.4",
     "react-scripts": "5.0.1",
