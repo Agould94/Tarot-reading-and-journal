@@ -15,7 +15,13 @@ function CardCard({card}){
                 <p>{card.name}</p>
             </div>
             {clicked ?
-            <div>{card.meanings.light.join(", ")}, {card.meanings.dark.join(",")}</div>
+            <div>
+                <h6>Light Meanings:</h6>
+                <div>{card.meanings.light.join(", ")}</div>
+                <br></br>
+                <h6>Shadow Meanings:</h6>
+                <div>{card.meanings.shadow.join(", ")}</div>
+            </div>
             :
             null}
         </div>
