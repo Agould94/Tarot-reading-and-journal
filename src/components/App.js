@@ -65,23 +65,13 @@ function App() {
           <Home></Home>
         </Route>
         <Route path= "/singledraw">
-    
           <CardList/>
-        
-          
-
         </Route>
         <Route path = "/threecard">
-          
           <CardList/>
-          
-        
-  
         </Route>
         <Route path = "/allcards">
-    
           <CardList/>
-       
         </Route>
         <Route path = "/journalform">
           <JournalForm moon = {moon} weather = {weather} temp = {temp} journalCards = {journalCards} setEntries = {setEntries}/>

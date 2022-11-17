@@ -11,7 +11,6 @@ function CardQuestions({cards}){
                                return(
                                    <div key = {question}>
                                        <label>{question}</label>
-                                       {/* <textarea type = "text" class = "form-control" ></textarea> */}
                                    </div>
                                )
                        })}

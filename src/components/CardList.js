@@ -18,7 +18,7 @@ function CardList(){
         setFirst(!first)
     }
 
-    console.log(match)
+    
     useEffect(()=>{
         fetch("http://localhost:4000/cards")
         .then((r)=>r.json())

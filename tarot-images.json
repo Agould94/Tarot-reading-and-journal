@@ -4887,6 +4887,150 @@
         }
       ],
       "id": 15
+    },
+    {
+      "date": "8/11/8",
+      "weather": "clear sky",
+      "temperature": 82.04,
+      "feelsLike": 85.46,
+      "humidity": 65,
+      "lunarPhase": "Full",
+      "entry": "This is a very interesting reading and gave me much to contemplate.",
+      "cards": [
+        {
+          "id": "40",
+          "name": "Four of Swords",
+          "number": "4",
+          "arcana": "Minor Arcana",
+          "suit": "Swords",
+          "img": "s04.jpg",
+          "fortune_telling": [
+            "Don't make any decision now",
+            "Wait, and you'll be glad you did"
+          ],
+          "keywords": [
+            "meditation",
+            "contemplation",
+            "perspective",
+            "mindset"
+          ],
+          "meanings": {
+            "light": [
+              "Thinking over your plans before putting them into action",
+              "Pausing to meditate or clear your mind",
+              "Taking time to understand someone or something before criticizing it",
+              "Resting",
+              "Occupying your thoughts with a healthy distraction"
+            ],
+            "shadow": [
+              "Failing to think things through",
+              "Mistaking procrastination for thoughtfulness",
+              "Adopting a point of view and refusing to reconsider your conclusions, even when presented with refuting evidence",
+              "Allowing chaos and whimsy to dominate your thoughts"
+            ]
+          },
+          "Numerology": "4 (The Status Quo: stability, equality, persistence)",
+          "Astrology": "Jupiter in Libra",
+          "Affirmation": "\"I think before taking action.\"",
+          "Questions": [
+            "How long has it been since you deliberately took a \"time out?\"",
+            "How difficult is it for you to meditate?",
+            "What would happen if you simply refused to make a decision today?"
+          ]
+        },
+        {
+          "id": "72",
+          "name": "Eight of Pentacles",
+          "number": "8",
+          "arcana": "Minor Arcana",
+          "suit": "Pentacles",
+          "img": "p08.jpg",
+          "fortune_telling": [
+            "Stop over-analyzing, researching, and outlining",
+            "Buckle down and get the work done"
+          ],
+          "keywords": [
+            "effort",
+            "work diligence",
+            "skill"
+          ],
+          "meanings": {
+            "light": [
+              "Doing your best",
+              "Bringing enthusiasm and zeal to your work",
+              "Making an effort to be the best you can be",
+              "Finding the work that is right for you",
+              "Taking care of the small details",
+              "Becoming a finely skilled craftsperson",
+              "Building something with your hands",
+              "Making a handmade gift"
+            ],
+            "shadow": [
+              "Working yourself to death",
+              "Doing a half-hearted or sloppy job",
+              "Continuing in a job you hate",
+              "Buying thoughtless gifts",
+              "Producing work with shoddy craftsmanship",
+              "Rushing through your work",
+              "Rejecting opportunities to learn more about your craft"
+            ]
+          },
+          "Numerology": "8 (The Action: movement, outer work, swiftness)",
+          "Astrology": "Sun in Virgo",
+          "Affirmation": "\"I give myself wholeheartedly to the task of the moment.\"",
+          "Questions": [
+            "How long has it been since you were \"lost in your work?\"",
+            "How can you improve your level of dedication and focus?",
+            "What work do you do best? What about that work appeals to you?"
+          ]
+        },
+        {
+          "id": "67",
+          "name": "Three of Pentacles",
+          "number": "3",
+          "arcana": "Minor Arcana",
+          "suit": "Pentacles",
+          "img": "p03.jpg",
+          "fortune_telling": [
+            "A high-dollar contract is in your future",
+            "If you work hard, you'll succeed"
+          ],
+          "keywords": [
+            "expression",
+            "production",
+            "work",
+            "contribution"
+          ],
+          "meanings": {
+            "light": [
+              "Finishing a project",
+              "Setting and meeting standards",
+              "Performing according to specifications",
+              "Making something others value",
+              "Creating something new",
+              "Doing your part in a group project",
+              "Delivering exactly what others have asked for"
+            ],
+            "shadow": [
+              "Pandering to the tastes of others",
+              "Failing to deliver what you've promised",
+              "Not delivering your best work unless closely supervised",
+              "Ignoring or breaking agreements with those who have invested in you",
+              "Refusing to do your part",
+              "Failing to abide by a clearly-outlined agreement with yourself or others"
+            ]
+          },
+          "Numerology": "3 (The Result: expression, productivity, output)",
+          "Astrology": "Mars in Capricorn",
+          "Affirmation": "\"My work produces results.\"",
+          "Questions": [
+            "How can I get more done?",
+            "What's expected of me? How large a role do I play in controlling those expectations?",
+            "What's been agreed to? How well has that agreement been followed?"
+          ]
+        }
+      ],
+      "id": 16
     }
   ]
 }
