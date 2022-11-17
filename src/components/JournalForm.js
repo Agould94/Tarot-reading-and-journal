@@ -19,39 +19,11 @@ function JournalForm({moon, weather, temp, setEntries}){
         setEntry(e.target.value)
     }
 
-    function handleSubmit(e){
-        e.preventDefault();
-        const date = new Date()
-        const currentDate = `${date.getDate()}/${date.getMonth()+1}/${date.getDate()}`
-        const itemData ={
-            date: currentDate,
-            weather: weather.description,
-            temperature: temp.temp,
-            feelsLike: temp.feels_like,
-            humidity: temp.humidity,
-            lunarPhase: moon, 
-            entry: entry,
-            cards: cards
-        }
-
-        fetch('http://localhost:4000/journal', {
-            method: "POST",
-            headers: {
-                "Content-Type":"application/json",
-            },
-            body: JSON.stringify(itemData),
-        })
-        .then((r)=>r.json())
-        .then((newEntry)=> {
-            setEntries((entries)=>[...entries, newEntry])
-            history.push("/journalentries")
-        }
-        )
-    }
+    
 
     return(
         <div>
-            <form className = "NewJournalEntry" onSubmit={handleSubmit}>
+            <form className = "NewJournalEntry" >
                 <div class = "container w-50 p-4">
                     <h2>Write Your Journal Entry</h2>
                     <textarea type = "text" class = "form-control" onChange = {handleEntryChange} ></textarea>
