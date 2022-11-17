@@ -32,6 +32,10 @@
   background-image: linear-gradient(to bottom right, purple, #dbc5e8);
 }
 
+.entrytitle{
+  font-weight: bold;
+}
+
 .meaningsdiv{
   background-color: #61dafb;
 }

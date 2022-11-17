@@ -35,7 +35,7 @@ function JournalEntry({entryData}){
 
     return(
         <div className="d-flex flex-column justify-content-start">
-            <div onClick = {handleClick} className="d-flex">Journal Entry {id}: {date}</div>
+            <div onClick = {handleClick} className="d-flex entrytitle">Journal Entry {id}: {date}</div>
             {clicked ?
                 <div className="d-flex flex-column justify-content-start">
                     <div className = "p-2 entry justify-content-start">
