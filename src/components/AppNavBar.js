@@ -15,7 +15,7 @@ function AppNavBar({moon, moonSym, weather, temp}){
             <NavBar.Brand style={{fontSize: 35, color: "white"}} >{moonSym} Tarot Journal</NavBar.Brand>
             <Nav variant="pills" class = "nav nav-pills mr-auto">
               <Nav.Item>
-                <Nav.Link href = "/">About</Nav.Link>
+                <Nav.Link as = {NavLink} exact to = {`/`}>About</Nav.Link>
               </Nav.Item>
               <NavDropdown title = "Card Spreads" id = "collapsible-nav-dropdown">
                   <NavDropdown.Item as = {NavLink} to = {`/singledraw`}>Single Card Draw</NavDropdown.Item>
