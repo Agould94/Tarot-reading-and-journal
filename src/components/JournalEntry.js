@@ -37,7 +37,7 @@ function JournalEntry({entryData}){
         <div className="d-flex flex-column justify-content-start">
             <div onClick = {handleClick} className="d-flex entrytitle">Journal Entry {id}: {date}</div>
             {clicked ?
-                <div className="d-flex flex-column justify-content-start">
+                <div className="d-flex flex-column justify-content-start entrydiv">
                     <div className = "p-2 entry justify-content-start">
                     <p class = "entry"> &#x2022; Weather: {weather}</p>
                     <p class = "entry"> &#x2022; Temperature: {temperature}</p>
