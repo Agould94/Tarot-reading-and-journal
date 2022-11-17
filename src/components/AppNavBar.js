@@ -23,10 +23,10 @@ function AppNavBar({moon, moonSym, weather, temp}){
                   <NavDropdown.Item as = {NavLink} to =  {`/allcards`}>See All Cards</NavDropdown.Item>
               </NavDropdown>
               <Nav.Item>
-                <Nav.Link href = "/journalform">New Journal</Nav.Link>
+                <Nav.Link as = {NavLink} to = {`/journalform`}>New Journal</Nav.Link>
               </Nav.Item>
               <Nav.Item>
-                <Nav.Link href = "/journalentries">Your Journal</Nav.Link>
+                <Nav.Link as = {NavLink} to = {`/journalentries`}>Your Journal</Nav.Link>
               </Nav.Item>
             </Nav>
             <NavBarInfo moon ={moon} weather = {weather} temp = {temp} moonSym ={moonSym}/>
